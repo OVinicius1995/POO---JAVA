@@ -32,13 +32,13 @@
 <hr>
 <div align="center"> <h3>Classes</h3> </div>
 
-[Classe abstrata](https://pages.github.com/) Esta é a classe que foi criada para receber as informações dos nomes dos pacientes e de infermagem, e as datas das vacinações.
+[Classe abstrata](https://github.com/OVinicius1995/POO---JAVA/blob/main/vacinacao/src/Cadastro.java) Esta é a classe abstrata que foi criada para receber as informações dos nomes dos pacientes, de infermagem, e as datas das vacinações.
 
-[Classe pacientes](https://pages.github.com/) Desse classe acima temos duas heranças, uma delas é o cadastro de pacientes onde são passadas as informações dos pacientes e as respectivas datas das vacinas.
+[Classe pacientes](https://github.com/OVinicius1995/POO---JAVA/blob/main/vacinacao/src/Pacientes.java) Desse classe acima temos duas heranças, uma delas é o cadastro de pacientes onde são passadas as informações dos pacientes e as respectivas datas das vacinas.
 
-[Classe enfermagem](https://pages.github.com/) E a outra é a classe de infermagem onde são passados os dados da enfermagem.
+[Classe enfermagem](https://github.com/OVinicius1995/POO---JAVA/blob/main/vacinacao/src/Enfermagem.java) E a outra é a classe de infermagem onde são passados os dados da enfermagem.
 
-[Classe enfermagem](https://pages.github.com/) Classe onde é feita a validação das datas e a listagem dos pacientes.
+[Classe VacinarCidadao](https://github.com/OVinicius1995/POO---JAVA/blob/main/vacinacao/src/VacinarCidadao.java) Classe onde é feita a validação das datas e a listagem dos pacientes.
 <hr>
 <div align="center"> <h3>UML</h3> </div>
 

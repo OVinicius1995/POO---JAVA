@@ -29,6 +29,7 @@
  <p> 7 - Utilize os conceitos de Herança, Classe Abstrata e Encapsulamento aprendidos na disciplina.</p>
  <p> 8 - Não é necessário salvar os dados em banco de dados ou arquivo, guarde todos os objetos em memória.</p>
 <div>
+<hr>
 <div align="center"> <h3>Classes</h3> </div>
 
 [Classe abstrata](https://pages.github.com/) Esta é a classe que foi criada para receber as informações dos nomes dos pacientes e de infermagem, e as datas das vacinações.

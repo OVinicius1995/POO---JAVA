@@ -1,1 +1,2 @@
 
+Este arquivo pode ser excluído pois foi criado somente para possibilitar a criação dos repositórios no gitHub.

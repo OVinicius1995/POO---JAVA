@@ -1,4 +1,5 @@
-<div align="center"><h1>POO em Java</h1></div>
+<div align="center"><h1>POO em Java<img align="center" alt="Vinicius-Java" height="30" width="40"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"></h1></div>
 
 <div>
   <h3>Projeto de orientação de objetos com Java</h3>
